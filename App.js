@@ -11,7 +11,7 @@ export default class App extends Component{
           centerComponent={{ text: 'Vehiculos', style: { fontSize: 16, fontWeight: '700', color: '#fff' } }}
           containerStyle={{
             height: 60,
-            backgroundColor: '#000000',
+            backgroundColor: '#FFFFFF',
             justifyContent: 'space-around',
           }}
           centerContainerStyle={{
